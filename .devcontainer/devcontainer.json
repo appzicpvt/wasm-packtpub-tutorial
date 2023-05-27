@@ -1,0 +1,14 @@
+{
+	"name": "wasm-packtpub-tutorial",
+	"image": "rmyasi/devcontainer:latest",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-vscode.cpptools-extension-pack",
+				"ritwickdey.LiveServer"
+			]
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+	"workspaceFolder": "/workspace"
+}
