@@ -5,3 +5,4 @@
 |03_passing_complex_data_01|08 - Passing Complex Data with Embind.mp4
 |04_passing_complex_data_02|08 - Passing Complex Data with Embind.mp4
 |05_interacting_with_the_browser|09 - Interacting with the Browser.mp4|
+|06_interacting_with_strings|11 - Understanding the Memory Model.mp4|
