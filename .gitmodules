@@ -1,0 +1,3 @@
+[submodule "08_OpenGLwindow_widgets/AssortedWidgets"]
+	path = 08_OpenGLwindow_widgets/AssortedWidgets
+	url = https://github.com/librepo/AssortedWidgets.git
