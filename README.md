@@ -7,3 +7,4 @@
 |05_interacting_with_the_browser|09 - Interacting with the Browser.mp4|
 |06_interacting_with_strings|11 - Understanding the Memory Model.mp4|
 |07_use_IndexdDB_as_Filesystem|15 - Handling Input and Output.mp4|
+|08_OpenGLwindow_widgets|23 - Wrapping Applications with Windowing.mp4|
